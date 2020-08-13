@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "8756534745",
+    "firebase_url": "https://covid-hospital-2fc4a.firebaseio.com",
+    "project_id": "covid-hospital-2fc4a",
+    "storage_bucket": "covid-hospital-2fc4a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:8756534745:android:68e9fc61413f8bf4b50dc8",
+        "android_client_info": {
+          "package_name": "com.laravel.covid_driver_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "8756534745-h8p1eo0dq7c1e66sibkrkq7n6l5kvq86.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-ruO7eZuOmuM4EX9C3jOeupkMwapHnDo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "8756534745-h8p1eo0dq7c1e66sibkrkq7n6l5kvq86.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:8756534745:android:509a413f087bf6a3b50dc8",
+        "android_client_info": {
+          "package_name": "com.laravel.covid_hospital_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "8756534745-h8p1eo0dq7c1e66sibkrkq7n6l5kvq86.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-ruO7eZuOmuM4EX9C3jOeupkMwapHnDo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "8756534745-h8p1eo0dq7c1e66sibkrkq7n6l5kvq86.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
