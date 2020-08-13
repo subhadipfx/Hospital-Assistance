@@ -34,9 +34,9 @@ We built an app which would show the type and number of beds available for a par
 
 ## Important Links:
 
-•	Heroku (For Laravel): https://hospital-helper-demp-1.herokuapp.com/
+•	Hospital Management Panel: https://hospital-helper-demp-1.herokuapp.com/
 
-•	NodeJS: https://covid-19-hospital-node.herokuapp.com/
+•	Backend API: https://covid-19-hospital-node.herokuapp.com/
 
 •	Super Admin: admin@super.com
 
@@ -47,6 +47,10 @@ Password: 123456789
 Password: 123456789
 
 •	Hospital Admin: test@hospital.com
+
+Password: 123456789
+
+•	App User: srijannag123@gmail.com
 
 Password: 123456789
 
