@@ -35,7 +35,7 @@ We built an app which would show the type and number of beds available for a par
 ## App Screenshots:
 |Login Page|Detect Location or Sign Out|Nearby Hospitals|Ambulance Booking|
 |     :---:      |     :---:      |     :---:      |     :---:      |
-|<img src="AppScreenshots/login.jpg">|<img src="AppScreenshots/location.jpg">|<img src="AppScreenshots/nearby.jpg">|<img src="AppScreenshots/ambulance.jpg">|
+|<div class="border circle p-3" style="width: 100px; height: 100px;"><img src="AppScreenshots/login.jpg"></div>|<img src="AppScreenshots/location.jpg">|<img src="AppScreenshots/nearby.jpg">|<img src="AppScreenshots/ambulance.jpg">|
 
 
 
