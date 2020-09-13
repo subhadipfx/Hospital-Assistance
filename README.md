@@ -58,4 +58,4 @@ Password: 123456789
 
 
 ## App Screenshots:
-<img src="https://github.com/subhadipfx/Hospital-Assistance/blob/master/AppScreenshots/login.jpg" alt="Login Page" width="100"><img src="https://github.com/subhadipfx/Hospital-Assistance/blob/master/AppScreenshots/login.jpg" alt="Login Page" width="100">
+<img src="https://github.com/subhadipfx/Hospital-Assistance/blob/master/AppScreenshots/login.jpg" alt="Login Page" width="100"> | <img src="https://github.com/subhadipfx/Hospital-Assistance/blob/master/AppScreenshots/location.jpg" alt="Detect Location or Sign Out" width="100"> | <img src="https://github.com/subhadipfx/Hospital-Assistance/blob/master/AppScreenshots/nearby.jpg" alt="Nearby Hospitals" width="100"> | <img src="https://github.com/subhadipfx/Hospital-Assistance/blob/master/AppScreenshots/ambulance.jpg" alt="Ambulance Booking" width="100">
