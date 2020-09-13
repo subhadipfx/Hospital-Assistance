@@ -58,5 +58,9 @@ Password: 123456789
 
 
 ## App Screenshots:
-<img src="https://github.com/subhadipfx/Hospital-Assistance/blob/master/AppScreenshots/login.jpg" width="100">
-<img src="https://github.com/subhadipfx/Hospital-Assistance/blob/master/AppScreenshots/login.jpg" width="100">
+<table>
+  <tr>
+    <img src="https://github.com/subhadipfx/Hospital-Assistance/blob/master/AppScreenshots/login.jpg" width="100">
+    <img src="https://github.com/subhadipfx/Hospital-Assistance/blob/master/AppScreenshots/login.jpg" width="100">
+  </tr>
+</table>
