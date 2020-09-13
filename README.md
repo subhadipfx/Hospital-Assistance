@@ -59,3 +59,16 @@ Password: 123456789
 
 ## App Screenshots:
 <img src="https://github.com/subhadipfx/Hospital-Assistance/blob/master/AppScreenshots/login.jpg" alt="Login Page" width="100"> | <img src="https://github.com/subhadipfx/Hospital-Assistance/blob/master/AppScreenshots/location.jpg" alt="Detect Location or Sign Out" width="100"> | <img src="https://github.com/subhadipfx/Hospital-Assistance/blob/master/AppScreenshots/nearby.jpg" alt="Nearby Hospitals" width="100"> | <img src="https://github.com/subhadipfx/Hospital-Assistance/blob/master/AppScreenshots/ambulance.jpg" alt="Ambulance Booking" width="100">
+
+<table>
+  <tr>
+    <td>First Screen Page</td>
+     <td>Holiday Mention</td>
+     <td>Present day in purple and selected day in pink</td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/subhadipfx/Hospital-Assistance/blob/master/AppScreenshots/login.jpg" width=270 height=480></td>
+    <td><img src="https://github.com/subhadipfx/Hospital-Assistance/blob/master/AppScreenshots/login.jpg" width=270 height=480></td>
+    <td><img src="https://github.com/subhadipfx/Hospital-Assistance/blob/master/AppScreenshots/login.jpg" width=270 height=480></td>
+  </tr>
+ </table>
