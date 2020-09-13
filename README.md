@@ -60,12 +60,12 @@ Password: 123456789
 ## App Screenshots:
 <div class="row">
   <div class="column">
-    <img src="https://github.com/subhadipfx/Hospital-Assistance/blob/master/AppScreenshots/login.jpg" alt="Login Page" style="width:100">
+    <img src="https://github.com/subhadipfx/Hospital-Assistance/blob/master/AppScreenshots/login.jpg" alt="Login Page" width="100">
   </div>
   <div class="column">
-    <img src="https://github.com/subhadipfx/Hospital-Assistance/blob/master/AppScreenshots/login.jpg" alt="Forest" style="width:100">
+    <img src="https://github.com/subhadipfx/Hospital-Assistance/blob/master/AppScreenshots/login.jpg" width="100">
   </div>
   <div class="column">
-    <img src="https://github.com/subhadipfx/Hospital-Assistance/blob/master/AppScreenshots/login.jpg" alt="Mountains" style="width:100">
+    <img src="https://github.com/subhadipfx/Hospital-Assistance/blob/master/AppScreenshots/login.jpg" alt="Mountains" width="100">
   </div>
 </div>
