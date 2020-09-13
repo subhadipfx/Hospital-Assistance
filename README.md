@@ -67,7 +67,7 @@ Password: 123456789
     <td>Nearby Hospitals</td>
     <td>Ambulance Booking</td>
   </tr>
-  <tr>
+  <tr style="background-color:#FF0000">
     <td style="background-color: transparent"><img src="AppScreenshots/login.jpg" width=270></td>
     <td><img src="AppScreenshots/location.jpg" width=270></td>
     <td><img src="AppScreenshots/nearby.jpg" width=270></td>
