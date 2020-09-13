@@ -62,13 +62,15 @@ Password: 123456789
 
 <table>
   <tr>
-    <td>First Screen Page</td>
-     <td>Holiday Mention</td>
-     <td>Present day in purple and selected day in pink</td>
+    <td>Login Page</td>
+    <td>Detect Location or Sign Out</td>
+    <td>Nearby Hospitals</td>
+    <td>Ambulance Booking</td>
   </tr>
   <tr>
-    <td><img src="https://github.com/subhadipfx/Hospital-Assistance/blob/master/AppScreenshots/login.jpg" width=270 height=480></td>
-    <td><img src="https://github.com/subhadipfx/Hospital-Assistance/blob/master/AppScreenshots/login.jpg" width=270 height=480></td>
-    <td><img src="https://github.com/subhadipfx/Hospital-Assistance/blob/master/AppScreenshots/login.jpg" width=270 height=480></td>
+    <td><img src="AppScreenshots/login.jpg" width=270></td>
+    <td><img src="AppScreenshots/location.jpg" width=270></td>
+    <td><img src="AppScreenshots/nearby.jpg" width=270></td>
+    <td><img src="AppScreenshots/ambulance.jpg" width=270></td>
   </tr>
  </table>
