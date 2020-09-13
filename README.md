@@ -58,8 +58,6 @@ Password: 123456789
 
 
 ## App Screenshots:
-<img src="https://github.com/subhadipfx/Hospital-Assistance/blob/master/AppScreenshots/login.jpg" alt="Login Page" width="100"> | <img src="https://github.com/subhadipfx/Hospital-Assistance/blob/master/AppScreenshots/location.jpg" alt="Detect Location or Sign Out" width="100"> | <img src="https://github.com/subhadipfx/Hospital-Assistance/blob/master/AppScreenshots/nearby.jpg" alt="Nearby Hospitals" width="100"> | <img src="https://github.com/subhadipfx/Hospital-Assistance/blob/master/AppScreenshots/ambulance.jpg" alt="Ambulance Booking" width="100">
-
 <table>
   <tr>
     <td>Login Page</td>
@@ -67,8 +65,8 @@ Password: 123456789
     <td>Nearby Hospitals</td>
     <td>Ambulance Booking</td>
   </tr>
-  <tr style="background-color:#FF0000">
-    <td style="background-color: transparent"><img src="AppScreenshots/login.jpg" width=270></td>
+  <tr>
+    <td><img src="AppScreenshots/login.jpg" width="25%"></td>
     <td><img src="AppScreenshots/location.jpg" width=270></td>
     <td><img src="AppScreenshots/nearby.jpg" width=270></td>
     <td><img src="AppScreenshots/ambulance.jpg" width=270></td>
