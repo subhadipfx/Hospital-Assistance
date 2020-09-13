@@ -60,15 +60,15 @@ Password: 123456789
 ## App Screenshots:
 <table>
   <tr>
+    <td><img src="AppScreenshots/login.jpg" width=270></td>
+    <td><img src="AppScreenshots/location.jpg" width=270></td>
+    <td><img src="AppScreenshots/nearby.jpg" width=270></td>
+    <td><img src="AppScreenshots/ambulance.jpg" width=270></td>
+  </tr>
+  <tr>
     <td>Login Page</td>
     <td>Detect Location or Sign Out</td>
     <td>Nearby Hospitals</td>
     <td>Ambulance Booking</td>
-  </tr>
-  <tr>
-    <td><img src="AppScreenshots/login.jpg" width="25%"></td>
-    <td><img src="AppScreenshots/location.jpg" width=270></td>
-    <td><img src="AppScreenshots/nearby.jpg" width=270></td>
-    <td><img src="AppScreenshots/ambulance.jpg" width=270></td>
   </tr>
  </table>
