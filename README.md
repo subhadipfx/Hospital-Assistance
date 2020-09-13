@@ -41,7 +41,7 @@ We built an app which would show the type and number of beds available for a par
     <td><img src="AppScreenshots/ambulance.jpg" width=270></td>
   </tr>
   <tr>
-    <td>Login Page</td>
+    <td style="text-align:center">Login Page</td>
     <td>Detect Location or Sign Out</td>
     <td>Nearby Hospitals</td>
     <td>Ambulance Booking</td>
