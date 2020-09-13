@@ -60,7 +60,7 @@ Password: 123456789
 ## App Screenshots:
 <table>
   <tr>
-    <td><img src="AppScreenshots/login.jpg" width=270></td>
+    <td><img src="AppScreenshots/login.jpg" width=270 style="border-radius: 50%"></td>
     <td><img src="AppScreenshots/location.jpg" width=270></td>
     <td><img src="AppScreenshots/nearby.jpg" width=270></td>
     <td><img src="AppScreenshots/ambulance.jpg" width=270></td>
