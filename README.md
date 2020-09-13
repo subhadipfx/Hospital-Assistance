@@ -68,7 +68,7 @@ Password: 123456789
     <td>Ambulance Booking</td>
   </tr>
   <tr>
-    <td><img src="AppScreenshots/login.jpg" width=270></td>
+    <td style="background-color: transparent"><img src="AppScreenshots/login.jpg" width=270></td>
     <td><img src="AppScreenshots/location.jpg" width=270></td>
     <td><img src="AppScreenshots/nearby.jpg" width=270></td>
     <td><img src="AppScreenshots/ambulance.jpg" width=270></td>
